@@ -12,4 +12,4 @@ This Project is meant to show in an anonymized way all the work done on IHS ( In
   
 - Below there is a screnshot of the dashboard.
 
-![Encounters dashboard screenshot](images/Encounters.png)
+![Encounters dashboard screenshot](Encounters.png)
